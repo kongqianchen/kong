@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c7e4dffa-4de9-44e0-b11d-a68c4ec47430" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1YZEZ4423NrJRSc9fKUo6D9zV9a" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RunManager" selected="Python.app">
+    <configuration name="dog.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/AutoPerusalProcedure/Reports/dog.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="Coherence" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoPerusalProcedure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Coherence" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Coherence/Coherence.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Grammar" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoPerusalProcedure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Grammar" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Grammar/Grammar.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoPerusalProcedure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="AutoPerusalProcedure" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.app" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="JavaScript Debug.dog.html" />
+        <item itemvalue="Python.Grammar" />
+        <item itemvalue="Python.Coherence" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c7e4dffa-4de9-44e0-b11d-a68c4ec47430" name="Default Changelist" comment="" />
+      <created>1583141768222</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1583141768222</updated>
+      <workItem from="1583141775212" duration="1225000" />
+      <workItem from="1583149896004" duration="9009000" />
+      <workItem from="1583160796400" duration="360000" />
+      <workItem from="1583201543140" duration="1119000" />
+      <workItem from="1583910288035" duration="120000" />
+      <workItem from="1584582969300" duration="749000" />
+      <workItem from="1584589358107" duration="980000" />
+      <workItem from="1584699045080" duration="1398000" />
+      <workItem from="1584709789515" duration="1298000" />
+      <workItem from="1584958035046" duration="6767000" />
+      <workItem from="1585057902299" duration="1145000" />
+      <workItem from="1585141221759" duration="1851000" />
+      <workItem from="1585228117985" duration="1459000" />
+      <workItem from="1585230067402" duration="2196000" />
+      <workItem from="1585384663994" duration="1523000" />
+      <workItem from="1585399995520" duration="1579000" />
+      <workItem from="1585448207634" duration="5122000" />
+      <workItem from="1585456845888" duration="5431000" />
+      <workItem from="1585488000998" duration="1560000" />
+      <workItem from="1585529155554" duration="2368000" />
+      <workItem from="1585555796011" duration="2762000" />
+      <workItem from="1585570526356" duration="8935000" />
+      <workItem from="1585618924428" duration="3992000" />
+      <workItem from="1585662133610" duration="8492000" />
+      <workItem from="1585893706627" duration="1635000" />
+      <workItem from="1585901592495" duration="822000" />
+      <workItem from="1585987383750" duration="278000" />
+      <workItem from="1586003781054" duration="424000" />
+      <workItem from="1586352554526" duration="1609000" />
+      <workItem from="1586358859031" duration="1282000" />
+      <workItem from="1586495247779" duration="176000" />
+      <workItem from="1586592985631" duration="222000" />
+      <workItem from="1586611272723" duration="212000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="315" y="58" key="#Docker" timestamp="1583141849591">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="315" y="58" key="#Docker/65.24.1301.744@65.24.1301.744" timestamp="1583141849591" />
+    <state x="394" y="24" key="#Dockerfile" timestamp="1583201868263">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="394" y="24" key="#Dockerfile/65.24.1301.744@65.24.1301.744" timestamp="1583201868263" />
+    <state width="1053" height="174" key="GridCell.Tab.0.bottom" timestamp="1586495326375">
+      <screen x="65" y="24" width="1099" height="490" />
+    </state>
+    <state width="881" height="82" key="GridCell.Tab.0.bottom/65.24.1095.486@65.24.1095.486" timestamp="1585460728468" />
+    <state width="1053" height="174" key="GridCell.Tab.0.bottom/65.24.1099.490@65.24.1099.490" timestamp="1586495326375" />
+    <state width="1255" height="239" key="GridCell.Tab.0.bottom/65.24.1301.744@65.24.1301.744" timestamp="1585578077681" />
+    <state width="340" height="181" key="GridCell.Tab.0.bottom/65.24.731.486@65.24.731.486" timestamp="1585450418914" />
+    <state width="692" height="137" key="GridCell.Tab.0.bottom/65.24.738.267@65.24.738.267" timestamp="1583150064658" />
+    <state width="1053" height="174" key="GridCell.Tab.0.center" timestamp="1586495326367">
+      <screen x="65" y="24" width="1099" height="490" />
+    </state>
+    <state width="881" height="82" key="GridCell.Tab.0.center/65.24.1095.486@65.24.1095.486" timestamp="1585460728467" />
+    <state width="1053" height="174" key="GridCell.Tab.0.center/65.24.1099.490@65.24.1099.490" timestamp="1586495326367" />
+    <state width="1255" height="239" key="GridCell.Tab.0.center/65.24.1301.744@65.24.1301.744" timestamp="1585578077677" />
+    <state width="340" height="181" key="GridCell.Tab.0.center/65.24.731.486@65.24.731.486" timestamp="1585450418912" />
+    <state width="692" height="137" key="GridCell.Tab.0.center/65.24.738.267@65.24.738.267" timestamp="1583150064656" />
+    <state width="1053" height="174" key="GridCell.Tab.0.left" timestamp="1586495326366">
+      <screen x="65" y="24" width="1099" height="490" />
+    </state>
+    <state width="881" height="82" key="GridCell.Tab.0.left/65.24.1095.486@65.24.1095.486" timestamp="1585460728467" />
+    <state width="1053" height="174" key="GridCell.Tab.0.left/65.24.1099.490@65.24.1099.490" timestamp="1586495326366" />
+    <state width="1255" height="239" key="GridCell.Tab.0.left/65.24.1301.744@65.24.1301.744" timestamp="1585578077677" />
+    <state width="340" height="181" key="GridCell.Tab.0.left/65.24.731.486@65.24.731.486" timestamp="1585450418909" />
+    <state width="692" height="137" key="GridCell.Tab.0.left/65.24.738.267@65.24.738.267" timestamp="1583150064651" />
+    <state width="1053" height="174" key="GridCell.Tab.0.right" timestamp="1586495326372">
+      <screen x="65" y="24" width="1099" height="490" />
+    </state>
+    <state width="881" height="82" key="GridCell.Tab.0.right/65.24.1095.486@65.24.1095.486" timestamp="1585460728468" />
+    <state width="1053" height="174" key="GridCell.Tab.0.right/65.24.1099.490@65.24.1099.490" timestamp="1586495326372" />
+    <state width="1255" height="239" key="GridCell.Tab.0.right/65.24.1301.744@65.24.1301.744" timestamp="1585578077678" />
+    <state width="340" height="181" key="GridCell.Tab.0.right/65.24.731.486@65.24.731.486" timestamp="1585450418913" />
+    <state width="692" height="137" key="GridCell.Tab.0.right/65.24.738.267@65.24.738.267" timestamp="1583150064657" />
+    <state x="65" y="24" width="1099" height="490" key="SettingsEditor" timestamp="1586352898236">
+      <screen x="65" y="24" width="1099" height="490" />
+    </state>
+    <state x="65" y="24" width="1099" height="490" key="SettingsEditor/65.24.1099.490@65.24.1099.490" timestamp="1586352898236" />
+    <state x="207" y="24" width="1021" height="728" key="SettingsEditor/65.24.1301.744@65.24.1301.744" timestamp="1584958142667" />
+    <state x="65" y="24" width="900" height="728" key="SettingsEditor/65.24.731.486@65.24.731.486" timestamp="1585532524415" />
+    <state x="328" y="147" key="com.intellij.ide.util.TipDialog" timestamp="1586598008566">
+      <screen x="65" y="24" width="1099" height="490" />
+    </state>
+    <state x="327" y="146" key="com.intellij.ide.util.TipDialog/65.24.1095.486@65.24.1095.486" timestamp="1584709834948" />
+    <state x="328" y="147" key="com.intellij.ide.util.TipDialog/65.24.1099.490@65.24.1099.490" timestamp="1586598008566" />
+    <state x="122" y="158" key="com.intellij.ide.util.TipDialog/65.24.1301.744@65.24.1301.744" timestamp="1585556625534" />
+    <state x="122" y="158" key="com.intellij.ide.util.TipDialog/65.24.735.534@65.24.735.534" timestamp="1585893943833" />
+    <state x="134" y="24" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser" timestamp="1585449620179">
+      <screen x="65" y="24" width="731" height="486" />
+    </state>
+    <state x="134" y="24" key="com.intellij.openapi.editor.actions.MultiplePasteAction$ClipboardContentChooser/65.24.731.486@65.24.731.486" timestamp="1585449620179" />
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup" timestamp="1585575186644">
+      <screen x="65" y="24" width="1301" height="744" />
+    </state>
+    <state x="378" y="89" width="672" height="678" key="search.everywhere.popup/65.24.1301.744@65.24.1301.744" timestamp="1585575186644" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/AutoPerusalProcedure$AutoPersual.coverage" NAME="AutoPersual Coverage Results" MODIFIED="1583158854768" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AutoPerusalProcedure$Statistics.coverage" NAME="Statistics Coverage Results" MODIFIED="1583158997929" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Statistics" />
+    <SUITE FILE_PATH="coverage/AutoPerusalProcedure$Grammar.coverage" NAME="Grammar Coverage Results" MODIFIED="1585902051203" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Grammar" />
+    <SUITE FILE_PATH="coverage/AutoPerusalProcedure$aeg_mc.coverage" NAME="aeg-mc Coverage Results" MODIFIED="1585576864254" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AutoPerusalProcedure$app.coverage" NAME="app Coverage Results" MODIFIED="1586611495583" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AutoPerusalProcedure$Spellings.coverage" NAME="Spellings Coverage Results" MODIFIED="1585562342542" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Spellings" />
+    <SUITE FILE_PATH="coverage/AutoPerusalProcedure$WeChat.coverage" NAME="WeChat Coverage Results" MODIFIED="1585451347239" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/AutoPerusalProcedure$Coherence.coverage" NAME="Coherence Coverage Results" MODIFIED="1585901700702" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/Coherence" />
+    <SUITE FILE_PATH="coverage/AutoPerusalProcedure$test.coverage" NAME="test Coverage Results" MODIFIED="1586495289501" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
